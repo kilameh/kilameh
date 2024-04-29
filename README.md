@@ -1,9 +1,10 @@
 <div style="text-align:center;">
 
-#✨ The universe is full of infinite possibilities ✨
+# ✨ The universe is full of infinite possibilities ✨
 </div>
 
 <br><br>
+
 
 > [!NOTE]
 > _I also do assets for game design and chars🥰 You can check them here:_ <br>
