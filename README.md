@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div style="text-align:center; display: flex; flex-direction: column; justify-content: center; height: 200px;">
 
 # ✨ The universe is full of infinite possibilities ✨
 </div>
